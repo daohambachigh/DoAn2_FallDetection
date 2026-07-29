@@ -1,0 +1,10 @@
+path: C:\Users\nguye\Downloads\DoAn2_FallDetection\yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['person']
